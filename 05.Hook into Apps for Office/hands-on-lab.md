@@ -45,7 +45,7 @@ Follow these steps to create the Azure Active Directory app.
 8. Click the **arrow**.<br/>
      ![](img/03.png?raw=true "Figure 3")
 9. Enter **https://localhost:44372/** in the **Sign-On URL** field.
-10. Enter **https://localhost:44372/WordReasearchApp** in the **App ID URI** field.
+10. Enter **https://localhost:44372/WordResearchApp** in the **App ID URI** field.
 11. Click the **Checkmark**.<br/>
      ![](img/04.png?raw=true "Figure 4")
 
